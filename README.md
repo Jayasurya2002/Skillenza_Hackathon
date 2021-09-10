@@ -4,6 +4,7 @@ PROBLEM STETEMENT:
 	Need for Speed Most Wanted
 SOLUTION:
 	An e-commerce website which connects kirana shop owners and customers directly, no external agencies.
+
 FLOWCHART:
   ![Skillenza](https://user-images.githubusercontent.com/56121394/132870961-37b0dc9a-5edf-4438-8611-bc78c6f5ccf2.png)
 NOTE:
